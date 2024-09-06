@@ -7,8 +7,8 @@
 - <b> Web App ( Machine Learning Components, Dash-plotly)</b>
   - [Sweden socioeconomic characteristics Dash-plotly app](https://github.com/mahsa-github/Sweden-socioecono_app/tree/master) </b></i>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://gb.com/joakor1/Sen-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshm/JwiperShell)
+  - [](https://gb.com/joakor1/Sen-Lab)
+  - [JWipe ()](https://github.com/joshm/Jl)
   
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/xkmx)
