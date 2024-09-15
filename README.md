@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mahsa! <br/><a href="https://github.com/mahsa-github">Data Scientist</a>, <a href="https://www.linkedin.com/in/mahsa-ramez/">Smart Mobility Professional</a>, <a href="https://mahsaramez.com/">Product Analyst</a></h1>
 
-<h2>👨‍💻 Statistics, Probability Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b> Churn prediction analysis </b>
   - [PowerCo company](https://github.com/mahsa-github/Power-company-churn)
