@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Statistics, Probability Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algos in Python](https://github.com/josh/AlgoPractice)
+- <b> Churn prediction analysis </b>
+  - [PowerCo company](https://github.com/mahsa-github/Power-company-churn)
 - <b> Web App ( Machine Learning Components, Dash-plotly)</b>
   - [Sweden socioeconomic characteristics Dash-plotly app](https://github.com/mahsa-github/Sweden-socioecono_app/tree/master) </b></i>
 - <b>PowerShell</b>
