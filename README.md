@@ -8,7 +8,7 @@
   - [Sweden socioeconomic characteristics Dash-plotly app](https://github.com/mahsa-github/Sweden-socioecono_app/tree/master) </b></i>
 - <b>Behavioral Analysis</b>
   - [Correlation is not causation](https://github.com/mahsa-github/BehavioralAnalysis/blob/main/correlation%20icedcoffee%20sales.ipynb)
-  - [JWipe ()](https://github.com/joshm/Jl)
+  - [Ad campaign Coefficient analysis ](https://github.com/mahsa-github/BehavioralAnalysis/blob/main/M%26M%20case%20study%2C%20.ipynb)
   
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/xkmx)
