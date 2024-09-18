@@ -6,8 +6,8 @@
   - [PowerCo company](https://github.com/mahsa-github/Power-company-churn)
 - <b> Web App ( Machine Learning Components, Dash-plotly)</b>
   - [Sweden socioeconomic characteristics Dash-plotly app](https://github.com/mahsa-github/Sweden-socioecono_app/tree/master) </b></i>
-- <b>PowerShell</b>
-  - [](https://gb.com/joakor1/Sen-Lab)
+- <b>Behavioral Analysis</b>
+  - [Correlation is not causation](https://github.com/mahsa-github/BehavioralAnalysis/blob/main/correlation%20icedcoffee%20sales.ipynb)
   - [JWipe ()](https://github.com/joshm/Jl)
   
 - <b>C# (.NET Desktop Applications)</b>
