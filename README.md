@@ -13,8 +13,8 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/xkmx)
   
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://g.com/ing-Algorithm)
+- <b>Gen-AI Chatbot</b>
+  - [Financial Analysis Chatbot](https://github.com/mahsa-github/AI-powered-financial-chatbot)
 
 <h2>📺 Popular Articles</h2>
 
